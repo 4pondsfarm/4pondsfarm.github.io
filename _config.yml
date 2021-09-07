@@ -61,6 +61,13 @@ author-about2: >
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 
+# Pricing paragraph
+pricing: >
+  Our beef is $5.50 per pound purchased by the side.
+
+# URL for pricing image
+pricing-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+
 # SASS
 sass:
   sass_dir: _sass
