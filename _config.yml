@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://4pondsfarm.ca'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
@@ -11,11 +11,9 @@ title: 4 Ponds Farm
 # Description of the Site
 description: A grass fed beef farm
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image:
 # Keywords of the Site
-site-keywords: Site, Template, Theme
-# URL for the Image of custom Favicon
-favicon-url: 
+site-keywords: 4PondsFarm, 4, Ponds, Farm, Grass, Grass-fed, Beef, Food, Organic, Natural, OrganicBeef, NaturalBeef, ScottishHighlands, Scottish, Highlands, Cows, Cattle
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: /assets/images/highland-banner.png
@@ -59,7 +57,7 @@ author-about2: >
   generally 18 months old or younger and the sides weigh from 175 to 275 lbs.
 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url:
 
 # Pricing paragraph
 pricing: >
