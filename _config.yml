@@ -65,7 +65,8 @@ pricing: >
   Contact us for more information.          
 
 pricing2: >
-  We currently have ground beef available in one pound packages. Contact us for more information.
+We currently have ground beef availalbe in one pound packages. Contact us for more information.- SOLD OUT
+
 
 # URL for pricing image
 pricing-image: /assets/images/ground-beef-packages.jpg
