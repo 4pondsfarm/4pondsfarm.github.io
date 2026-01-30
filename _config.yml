@@ -61,7 +61,7 @@ author-url:
 
 # Pricing paragraph
 pricing: >
-  We have waiting list only available for sides of beef for October 2024.
+  We have waiting list only available for sides of beef for October 2026.
   Contact us for more information.          
 
 pricing2: >
@@ -117,3 +117,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
